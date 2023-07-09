@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69e77e68-98be-4d9e-bc94-1c84968f3ca2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/example-app/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Controllers/API/PostController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Requests/ApiFormRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Requests/PostRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Http/Resources/PostResource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Models/Post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Providers/RepositoryServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Providers/ServiceServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Repositories/PostRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Repositories/PostRepositoryInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Services/PostService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Services/PostServiceInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/app/Traits/ApiResponseTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/sanctum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/database/factories/PostFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/database/migrations/2023_07_09_183508_create_posts_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/tests/Feature/CreatePostTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/tests/Feature/DeletePostTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/tests/Feature/GetPostsTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/tests/Unit/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example-app/webpack.mix.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1688943671" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1688943670" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="2SLyCqjBWVGRRQUb1IdEtvqNfLB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/var/www/html/Api-example",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="docker-compose.yml.mysql: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="mysql" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.mysql: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69e77e68-98be-4d9e-bc94-1c84968f3ca2" name="Default Changelist" comment="" />
+      <created>1688940035226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688940035226</updated>
+      <workItem from="1688940041494" duration="35000" />
+      <workItem from="1688940079069" duration="8755000" />
+      <workItem from="1688960589017" duration="668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
